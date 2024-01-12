@@ -1,4 +1,4 @@
-import teste_dici as t
+import back_app as t
 while True:
     escolha= input("1)Adicionar documento\n2)Remover documento\n3)Pesquisar documento\n:")
     if escolha=="1":
