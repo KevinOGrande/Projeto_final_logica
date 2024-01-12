@@ -1,5 +1,5 @@
 import tkinter as tk
-import teste_dici as td
+import back_app as td
 def adicionar_doc():
     cod_txt= tk.Label(janela,text="Codigo")
     cod_txt.pack()
